@@ -1,4 +1,4 @@
-##👋 Hi there, I'm Sohan.
+## 👋 Hi there, I'm Sohan.
 
 <!--
 **Sohan916/Sohan916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
