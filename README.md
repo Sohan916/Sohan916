@@ -1,5 +1,7 @@
 ## 👋 Hi there, I'm Sohan.
 
+![GitHub Snake](https://raw.githubusercontent.com/Sohan916/Sohan916/output/github-snake.svg)
+
 <!--
 **Sohan916/Sohan916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
